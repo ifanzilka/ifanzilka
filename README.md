@@ -6,4 +6,4 @@
 #
 - 🔭 Student KFU and School21
 - 🌱 My Stepik Profile -> https://stepik.org/users/36193792?auth=login
-- 📫 My Telegram -> https://t.me/ewos365
+- 📫 My Telegram -> https://t.me/ifanzilka
