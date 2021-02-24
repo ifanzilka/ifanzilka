@@ -10,7 +10,7 @@
 <br/>
 	
 [![ifanzilka' github stats](https://github-readme-stats.vercel.app/api?username=ifanzilka&show_icons=true&theme=dark&bg_color=ffffff&text_color=000000&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![bmarilli 42 stats](https://badge42.herokuapp.com/api/stats/bmarilli](https://github.com/JaeSeoKim/badge42)
+[![bmarilli 42 stats](https://badge42.herokuapp.com/api/stats/bmarilli?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifanzilka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
