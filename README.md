@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifanzilka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Student KFU and School21
-- 🌱 My Stepik Profile -> https://stepik.org/users/36193792?auth=login
+- 🌱 My Stepik Profile -> https://stepik.org/users/36193792
 - 📫 My Telegram -> https://t.me/ifanzilka
 
 * [My Project School21](https://github.com/ifanzilka/My_Project_School21)
