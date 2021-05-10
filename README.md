@@ -42,3 +42,5 @@
 * [minishell](https://github.com/ifanzilka/minishell)
 #### Ft_services will introduce you to Kubernetes. 
 * [ft_services](https://github.com/ifanzilka/ft_services)
+#### Philosophers for multithreading
+* [ft_Philosophers]()
