@@ -31,6 +31,9 @@
 * [get_next_line](https://github.com/ifanzilka/get_next_line)
 #### Print formatted
 * [ft_printf](https://github.com/ifanzilka/ft_printf)
+	
+#### Signals 
+* [minitalk](https://github.com/ifanzilka/minitalk)	
 #### Docker/Nginx/MySql/PhpMyAdmin/WordPress
 * [ft_server](https://github.com/ifanzilka/ft_server)
 #### Ray Tracing
