@@ -46,3 +46,6 @@
 * [ft_services](https://github.com/ifanzilka/ft_services)
 #### Philosophers for multithreading
 * [ft_Philosophers](https://github.com/ifanzilka/Philosophers)
+	
+#### CPP modules
+* []	
