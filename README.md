@@ -48,4 +48,4 @@
 * [ft_Philosophers](https://github.com/ifanzilka/Philosophers)
 	
 #### CPP modules
-* []	
+* [CPP](https://github.com/ifanzilka/CPP_Module)	
