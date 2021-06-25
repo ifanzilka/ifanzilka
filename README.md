@@ -27,6 +27,8 @@
  * [libft(improved version)](https://github.com/ifanzilka/libft)
 #### Network Protocol
 * [netwhat](https://github.com/ifanzilka/netwhat)
+#### NetPractice
+* [NetPractice](https://github.com/ifanzilka/NetPractice)	
 #### Read line
 * [get_next_line](https://github.com/ifanzilka/get_next_line)
 #### Print formatted
