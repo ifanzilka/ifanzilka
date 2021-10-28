@@ -1,13 +1,6 @@
 ## Hello my friend! I'm ifanzilka 👋
 
-</a>
-<a href="https://github.com/ifanzilka">
-	<img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/ifanzilka">
-	<img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-<br/>
-<br/>
+
 	
 
 
