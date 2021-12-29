@@ -10,7 +10,6 @@
 - 🌱 My Stepik Profile -> https://stepik.org/users/36193792
 - 📫 My Telegram -> https://t.me/ifanzilka
 
-* [My Project School21](https://github.com/ifanzilka/My_Project_School21)
 
 ## 42cursus
 #### Robo_Club_R2-D2
