@@ -8,10 +8,9 @@
 - 📫 My Telegram -> https://t.me/ifanzilka
 
 ## 42cursus and project
-#### Robo_Club_R2-D2
 ###  [Robo](https://github.com/ifanzilka/Robo_R2-D2) [USE: RasberryPy]
 #### Standart libary of C 
- * [libft(improved version)](https://github.com/ifanzilka/libft)
+### [libft(improved version)](https://github.com/ifanzilka/libft) [USE: clear C, malloc, write]
 #### Network Protocol
 * [netwhat](https://github.com/ifanzilka/netwhat)
 #### NetPractice
