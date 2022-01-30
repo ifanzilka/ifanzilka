@@ -23,7 +23,7 @@
 | [Fdf](https://github.com/ifanzilka/Fdf)| Graphics | mlx library, libft, math
 | [miniRT](https://github.com/ifanzilka/miniRT) | Ray Tracing | mlx library, thread, libft, linear algebra
 | [libasm](https://github.com/ifanzilka/libasm)|  Standart Libary in Assembler | make, Nasm compiler, system calls
-| [minishell](https://github.com/ifanzilka/minishell)|  Copy Standart Terminial Bash | 
+| [minishell](https://github.com/ifanzilka/minishell)|  Copy Standart Terminial Bash | fork, execuve, dup2, pipe, termacps, opendir, kill, wait ...
 | [born2beroot](https://github.com/ifanzilka/Born2beroot)| System Administration |
 | [ft_services](https://github.com/ifanzilka/ft_services)|  Ft_services will introduce you to Kubernetes.  |
 | [Inception](https://github.com/ifanzilka/Inception) | Inception for use in Docker compose |
