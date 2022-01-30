@@ -7,11 +7,6 @@
 - 🌱 My Stepik Profile -> https://stepik.org/users/36193792
 - 📫 My Telegram -> https://t.me/ifanzilka
 
-
-
-
-#### Print formatted
-* [ft_printf](https://github.com/ifanzilka/ft_printf)
 	
 #### Signals 
 * [minitalk](https://github.com/ifanzilka/minitalk)	
@@ -52,4 +47,17 @@
 | [netwhat](https://github.com/ifanzilka/netwhat) | Network Protocol | 
 | [NetPractice](https://github.com/ifanzilka/NetPractice) |  NetPractice |
 | [get_next_line](https://github.com/ifanzilka/get_next_line) | Read one line (\n) | read, static variable |
-|[ft_printf](https://github.com/ifanzilka/ft_printf) | Original C function printf | va_arg, va_list, va_end
+|[ft_printf](https://github.com/ifanzilka/ft_printf) | Original C function printf | va_arg, va_list, va_end |
+|[minitalk](https://github.com/ifanzilka/minitalk) | Server and Client  | signal
+◦ sigemptyset
+◦ sigaddset
+◦ sigaction
+◦ kill
+◦ getpid
+◦ malloc
+◦ free
+◦ pause
+◦ sleep
+◦ usleep
+◦ exit
+| | |
