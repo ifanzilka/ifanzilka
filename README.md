@@ -56,6 +56,6 @@
 | Name | Description | Tools |
 | --- | --- | --- |
 | [libft(improved version)](https://github.com/ifanzilka/libft)| 	Standart libary of C  | 	Сlear C, malloc, write, Make
-| 4 |  5| 
-| 6 |  7  |
+| [netwhat](https://github.com/ifanzilka/netwhat) | Network Protocol | 
+| * [NetPractice](https://github.com/ifanzilka/NetPractice) |  NetPractice |
 | 8 | 9 | 10 |
