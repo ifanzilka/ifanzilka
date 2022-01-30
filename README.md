@@ -55,7 +55,7 @@
 ## Project List:
 | Name | Description | Tools |
 | --- | --- | --- |
-| [libft(improved version)](https://github.com/ifanzilka/libft)| Standart libary of C  | Сlear C, malloc, write, Make
+| [libft(improved version)](https://github.com/ifanzilka/libft)| 	Standart libary of C  | 	Сlear C, malloc, write, Make
 | 4 |  5| 
 | 6 |  7  |
 | 8 | 9 | 10 |
