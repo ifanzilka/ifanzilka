@@ -8,7 +8,7 @@
 - 📫 My Telegram -> https://t.me/ifanzilka
 
 ## 42cursus and project
-###  [Robo](https://github.com/ifanzilka/Robo_R2-D2) [USE: RasberryPy]
+
 #### Standart libary of C 
 ### [libft(improved version)](https://github.com/ifanzilka/libft) [USE: clear C, malloc, write]
 #### Network Protocol
