@@ -21,7 +21,7 @@
 |[minitalk](https://github.com/ifanzilka/minitalk) | Server and Client  | signal ,sigemptyset, sigaddset, sigaction, kill, getpid, malloc, free, pause, sleep, usleep, exit
 |[ft_server](https://github.com/ifanzilka/ft_server) | Lifting the docker container with the site |Docker/Nginx/MySql/PhpMyAdmin/WordPress
 | [Fdf](https://github.com/ifanzilka/Fdf)| Graphics | mlx library, libft, math
-| [miniRT](https://github.com/ifanzilka/miniRT) | Ray Tracing |
+| [miniRT](https://github.com/ifanzilka/miniRT) | Ray Tracing | mlx library, thread, libft, linear algebra
 | [libasm](https://github.com/ifanzilka/libasm)|  Standart Libary in Assembler |
 | [minishell](https://github.com/ifanzilka/minishell)|  Copy Standart Terminial Bash |
 | [born2beroot](https://github.com/ifanzilka/Born2beroot)| System Administration |
