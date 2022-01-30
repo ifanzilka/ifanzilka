@@ -53,7 +53,7 @@
 
 
 ## Project List:
-| Name | Описание | Инструменты |
+| Name | Description | Tools |
 | --- | --- | --- |
 | 1| 2 | 
 | 4 |  5| 
