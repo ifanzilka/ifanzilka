@@ -7,26 +7,7 @@
 - 🌱 My Stepik Profile -> https://stepik.org/users/36193792
 - 📫 My Telegram -> https://t.me/ifanzilka
 	
-#### Standart Libary in Assembler
-* [libasm](https://github.com/ifanzilka/libasm)
-#### Copy Standart Terminial Bash
-* [minishell](https://github.com/ifanzilka/minishell)
-#### System Administration
-* [born2beroot](https://github.com/ifanzilka/Born2beroot)
 
-#### Ft_services will introduce you to Kubernetes. 	
-* [ft_services](https://github.com/ifanzilka/ft_services)
-#### Inception for use in Docker compose
-* [Inception](https://github.com/ifanzilka/Inception)
-
-#### Philosophers for multithreading
-* [ft_Philosophers](https://github.com/ifanzilka/Philosophers)
-	
-#### CPP modules
-* [CPP](https://github.com/ifanzilka/CPP_Module)	
-
-#### STL/Standart Library C++ (STL) 
-* [ft_containers](https://github.com/ifanzilka/ft_containers-STL)
 
 
 ## Project List:
@@ -41,8 +22,14 @@
 |[ft_server](https://github.com/ifanzilka/ft_server) | |Docker/Nginx/MySql/PhpMyAdmin/WordPress
 | [Fdf](https://github.com/ifanzilka/Fdf)| Graphics |
 | [miniRT](https://github.com/ifanzilka/miniRT) | Ray Tracing |
-| [libasm](https://github.com/ifanzilka/libasm)| #### Standart Libary in Assembler |
-| | |
+| [libasm](https://github.com/ifanzilka/libasm)|  Standart Libary in Assembler |
+| [minishell](https://github.com/ifanzilka/minishell)|  Copy Standart Terminial Bash |
+| [born2beroot](https://github.com/ifanzilka/Born2beroot)| System Administration |
+| [ft_services](https://github.com/ifanzilka/ft_services)|  Ft_services will introduce you to Kubernetes.  |
+| [Inception](https://github.com/ifanzilka/Inception) | Inception for use in Docker compose |
+| [ft_Philosophers](https://github.com/ifanzilka/Philosophers) | Philosophers for multithreading |
+| [CPP](https://github.com/ifanzilka/CPP_Module) | CPP modules |
+| [ft_containers](https://github.com/ifanzilka/ft_containers-STL) | STL/Standart Library C++   |
 | | |
 | | |
 | | |
