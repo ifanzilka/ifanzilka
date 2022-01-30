@@ -6,16 +6,7 @@
 
 - 🌱 My Stepik Profile -> https://stepik.org/users/36193792
 - 📫 My Telegram -> https://t.me/ifanzilka
-
-		
-#### Docker/Nginx/MySql/PhpMyAdmin/WordPress
-* [ft_server](https://github.com/ifanzilka/ft_server)
 	
-#### Graphics
-* [Fdf](https://github.com/ifanzilka/Fdf)	
-	
-#### Ray Tracing
-* [miniRT](https://github.com/ifanzilka/miniRT)
 #### Standart Libary in Assembler
 * [libasm](https://github.com/ifanzilka/libasm)
 #### Copy Standart Terminial Bash
@@ -48,9 +39,9 @@
 |[ft_printf](https://github.com/ifanzilka/ft_printf) | Original C function printf | va_arg, va_list, va_end |
 |[minitalk](https://github.com/ifanzilka/minitalk) | Server and Client  | signal ,sigemptyset, sigaddset, sigaction, kill, getpid, malloc, free, pause, sleep, usleep, exit
 |[ft_server](https://github.com/ifanzilka/ft_server) | |Docker/Nginx/MySql/PhpMyAdmin/WordPress
-| | |
-| | |
-| | |
+| [Fdf](https://github.com/ifanzilka/Fdf)| Graphics |
+| [miniRT](https://github.com/ifanzilka/miniRT) | Ray Tracing |
+| [libasm](https://github.com/ifanzilka/libasm)| #### Standart Libary in Assembler |
 | | |
 | | |
 | | |
