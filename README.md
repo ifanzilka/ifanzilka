@@ -9,14 +9,7 @@
 
 
 
-#### Standart libary of C 
-### [libft(improved version)](https://github.com/ifanzilka/libft) [USE: clear C, malloc, write]
-#### Network Protocol
-* [netwhat](https://github.com/ifanzilka/netwhat)
-#### NetPractice
-* [NetPractice](https://github.com/ifanzilka/NetPractice)	
-#### Read line
-* [get_next_line](https://github.com/ifanzilka/get_next_line)
+
 #### Print formatted
 * [ft_printf](https://github.com/ifanzilka/ft_printf)
 	
@@ -59,3 +52,4 @@
 | [netwhat](https://github.com/ifanzilka/netwhat) | Network Protocol | 
 | [NetPractice](https://github.com/ifanzilka/NetPractice) |  NetPractice |
 | [get_next_line](https://github.com/ifanzilka/get_next_line) | Read one line (\n) | read, static variable |
+|[ft_printf](https://github.com/ifanzilka/ft_printf) | Original C function printf | va_arg, va_list, va_end
