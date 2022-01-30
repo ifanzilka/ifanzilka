@@ -46,18 +46,7 @@
 | [libft(improved version)](https://github.com/ifanzilka/libft)| 	Standart libary of C  | 	Сlear C, malloc, write, Make
 | [netwhat](https://github.com/ifanzilka/netwhat) | Network Protocol | 
 | [NetPractice](https://github.com/ifanzilka/NetPractice) |  NetPractice |
-| [get_next_line](https://github.com/ifanzilka/get_next_line) | Read one line (\n) | read, static variable |
+| [get_next_line](https://github.com/ifanzilka/get_next_line) | Read one line (\n) | read, malloc, free, static variable |
 |[ft_printf](https://github.com/ifanzilka/ft_printf) | Original C function printf | va_arg, va_list, va_end |
-|[minitalk](https://github.com/ifanzilka/minitalk) | Server and Client  | signal
-◦ sigemptyset
-◦ sigaddset
-◦ sigaction
-◦ kill
-◦ getpid
-◦ malloc
-◦ free
-◦ pause
-◦ sleep
-◦ usleep
-◦ exit
+|[minitalk](https://github.com/ifanzilka/minitalk) | Server and Client  | signal ,sigemptyset, sigaddset, sigaction, kill, getpid, malloc, free, pause, sleep, usleep, exit
 | | |
