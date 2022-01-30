@@ -7,7 +7,7 @@
 - 🌱 My Stepik Profile -> https://stepik.org/users/36193792
 - 📫 My Telegram -> https://t.me/ifanzilka
 
-## 42cursus and project
+
 
 #### Standart libary of C 
 ### [libft(improved version)](https://github.com/ifanzilka/libft) [USE: clear C, malloc, write]
@@ -52,8 +52,8 @@
 * [ft_containers](https://github.com/ifanzilka/ft_containers-STL)
 
 
-Список проектов:
-| Название | Описание | Инструменты |
+##Project List:
+| Name | Описание | Инструменты |
 | --- | --- | --- |
 | 1| 2 | 
 | 4 |  5| 
