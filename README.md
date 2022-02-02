@@ -29,7 +29,7 @@
 | [ft_Philosophers](https://github.com/ifanzilka/Philosophers) | Philosophers for multithreading |
 | [CPP](https://github.com/ifanzilka/CPP_Module) | CPP modules |
 | [ft_containers(old bad) ](https://github.com/ifanzilka/ft_containers-STL) | STL/Standart Library C++   |
-| [FT_STL](https://github.com/ifanzilka/FT_STL)| STL/Standart Library C++ |  Implemented:<iteratior>, <utility>
+| [FT_STL](https://github.com/ifanzilka/FT_STL)| STL/Standart Library C++ |  Implemented:iteratior, utility
 | | |
 | | |
 | | |
