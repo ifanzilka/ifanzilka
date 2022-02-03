@@ -1,4 +1,4 @@
-## Hello my friend! I'm Fanzil Nabiyarov ,  I like C/C++ and ML👋
+## Hello my friend! I'm Fanzil Nabiyarov ,  I like C/C++,Linux and ML👋
 
 
 	
