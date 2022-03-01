@@ -24,7 +24,7 @@
 | [libasm](https://github.com/ifanzilka/libasm)|  Standart Libary in Assembler | make, Nasm compiler, system calls
 | [minishell](https://github.com/ifanzilka/minishell)|  Copy Standart Terminial Bash | fork, execuve, dup2, pipe, termacps, opendir, kill, wait ...
 | [born2beroot](https://github.com/ifanzilka/Born2beroot)| System Administration | Debian, bash, ssh, UFW, crone, linux
-| [ft_services](https://github.com/ifanzilka/ft_services)|  Ft_services will introduce you to Kubernetes.  | K8S, Minikube and Docker, Nginx, WordPress, Ftps, GRafana
+| [ft_services](https://github.com/ifanzilka/ft_services)|  Ft_services will introduce you to Kubernetes.  | K8S, Minikube and Docker, container:Nginx, WordPress, Ftps, GRafana
 | [Inception](https://github.com/ifanzilka/Inception) | Inception for educatiopn Docker compose | Docker Compose, DockerFile, container with Nginx, container with mariaDB,  container with WordPress
 | [ft_Philosophers](https://github.com/ifanzilka/Philosophers) | Philosophers for multithreading |
 | [CPP](https://github.com/ifanzilka/CPP_Module) | CPP modules |
