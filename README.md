@@ -28,7 +28,7 @@
 | [Inception](https://github.com/ifanzilka/Inception) | Inception for educatiopn Docker compose | Docker Compose, DockerFile, container with Nginx, container with mariaDB,  container with WordPress
 | [ft_Philosophers](https://github.com/ifanzilka/Philosophers) | Philosophers for multithreading | mutex,pthread create/join/ detach, semaphore, fork
 | [CPP](https://github.com/ifanzilka/CPP_Module) | CPP modules |
-| [FT_STL](https://github.com/ifanzilka/FT_STL)| STL/Standart Library C++ |  Implemented:iteratior, utility
+| [FT_STL](https://github.com/ifanzilka/FT_STL)| STL/Standart Library C++ |
 | | |
 | | |
 | | |
