@@ -27,7 +27,7 @@
 | [ft_services](https://github.com/ifanzilka/ft_services)|  Ft_services will introduce you to Kubernetes.  | K8S, Minikube and Docker, container:Nginx, WordPress, Ftps, GRafana
 | [Inception](https://github.com/ifanzilka/Inception) | Inception for educatiopn Docker compose | Docker Compose, DockerFile, container with Nginx, container with mariaDB,  container with WordPress
 | [ft_Philosophers](https://github.com/ifanzilka/Philosophers) | Philosophers for multithreading | mutex,pthread create/join/ detach, semaphore, fork
-| [CPP](https://github.com/ifanzilka/CPP_Module) | CPP modules |
+| [CPP](https://github.com/ifanzilka/CPP_Module) | CPP modules |  basic OOP C++
 | [FT_STL](https://github.com/ifanzilka/FT_STL)| STL/Standart Library C++ |
 | | |
 | | |
