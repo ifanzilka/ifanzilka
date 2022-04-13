@@ -29,6 +29,6 @@
 | [ft_Philosophers](https://github.com/ifanzilka/Philosophers) | Philosophers for multithreading | mutex,pthread create/join/ detach, semaphore, fork
 | [CPP](https://github.com/ifanzilka/CPP_Module) | CPP modules |  basic OOP C++
 | [FT_STL](https://github.com/ifanzilka/FT_STL)| STL/Standart Library C++ |
-|[FT_STL](https://github.com/ifanzilka/FT_STL) | HTTP Server|
+|[WebServ](https://github.com/ifanzilka/WebServ) | HTTP Server|
 | | |
 | | |
