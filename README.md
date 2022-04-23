@@ -23,7 +23,7 @@
 | [miniRT](https://github.com/ifanzilka/miniRT) | Ray Tracing | mlx library, thread, libft, linear algebra
 | [libasm](https://github.com/ifanzilka/libasm)|  Standart Libary in Assembler | make, Nasm compiler, system calls
 | [minishell](https://github.com/ifanzilka/minishell)|  Copy Standart Terminial Bash | fork, execuve, dup2, pipe, termacps, opendir, kill, wait ...
-| [dr-quine](https://github.com/ifanzilka/dr-quine)|   | Algo
+| [dr-quine](https://github.com/ifanzilka/dr-quine)| A quine is a computer program which takes no input and produces a copy of its own source code as its only output  | Algo, MACRO, system, open, Makefile
 | [born2beroot](https://github.com/ifanzilka/Born2beroot)| System Administration | Debian, bash, ssh, UFW, crone, linux
 | [ft_services](https://github.com/ifanzilka/ft_services)|  Ft_services will introduce you to Kubernetes.  | K8S, Minikube and Docker, container:Nginx, WordPress, Ftps, GRafana
 | [Inception](https://github.com/ifanzilka/Inception) | Inception for educatiopn Docker compose | Docker Compose, DockerFile, container with Nginx, container with mariaDB,  container with WordPress
