@@ -13,7 +13,7 @@
 | Name | Description | Tools |
 | --- | --- | --- |
 | [libft(improved version)](https://github.com/ifanzilka/libft)| 	Standart libary of C  | 	Сlear C, malloc, write, Make
-| [c_matrix](https://github.com/ifanzilka/c-matrix| 	Matrix lib of C  | 	Сlear C, Make
+| [c_matrix](https://github.com/ifanzilka/c-matrix)| 	Matrix lib of C  | 	Сlear C, Make
 | [netwhat](https://github.com/ifanzilka/netwhat) | Test for Network Protocol | 
 | [NetPractice](https://github.com/ifanzilka/NetPractice) | Configuring Routers |
 | [get_next_line](https://github.com/ifanzilka/get_next_line) | Read one line (\n) | read, malloc, free, static variable |
