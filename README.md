@@ -31,6 +31,7 @@
 | [Inception](https://github.com/ifanzilka/Inception) | Inception for educatiopn Docker compose | Docker Compose, DockerFile, container with Nginx, container with mariaDB,  container with WordPress
 | [ft_Philosophers](https://github.com/ifanzilka/Philosophers) | Philosophers for multithreading | mutex,pthread create/join/ detach, semaphore, fork
 | [CPP](https://github.com/ifanzilka/CPP_Module) | CPP modules |  basic OOP C++
+| [CPP_Matrix](https://github.com/ifanzilka/CPP_Matrix) | CPP_Matrix | Matrix algebra in CPP
 | [FT_STL](https://github.com/ifanzilka/FT_STL)| STL/Standart Library C++, faster than the original | clear C++ 98
 |[ft_irc](https://github.com/ifanzilka/ft_irc)|Internet Relay Chat |C++, socket,accept, epoll,poll, select, kqueue
 |[WebServ](https://github.com/ifanzilka/WebServ) | HTTP Server|C++, socket,accept, epoll,poll, select, kqueue
