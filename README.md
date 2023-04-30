@@ -35,5 +35,5 @@
 | [FT_STL](https://github.com/ifanzilka/FT_STL)| STL/Standart Library C++, faster than the original | clear C++ 98
 |[ft_irc](https://github.com/ifanzilka/ft_irc)|Internet Relay Chat |C++, socket,accept, epoll,poll, select, kqueue
 |[WebServ](https://github.com/ifanzilka/WebServ) | HTTP Server|C++, socket,accept, epoll,poll, select, kqueue
-| | |
+|[tweets](https://github.com/ifanzilka/tweets) | This project is an introduction to natural language processing: bag of words, TFIDF, stemming, lemmatization, stop-words, cosine similarity, n-grams, word2vec|python3, pandas, numpy, scikit-learn
 | | |
