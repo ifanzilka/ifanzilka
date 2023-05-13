@@ -36,4 +36,5 @@
 |[ft_irc](https://github.com/ifanzilka/ft_irc)|Internet Relay Chat |C++, socket,accept, epoll,poll, select, kqueue
 |[WebServ](https://github.com/ifanzilka/WebServ) | HTTP Server|C++, socket,accept, epoll,poll, select, kqueue
 |[tweets](https://github.com/ifanzilka/tweets) | This project is an introduction to natural language processing: bag of words, TFIDF, stemming, lemmatization, stop-words, cosine similarity, n-grams, word2vec|python3, pandas, numpy, scikit-learn
+|[psp-game](https://github.com/ifanzilka/psp_game) | Simple game for PlayStation Portable (In progress) Why? I can do it|psp-g++(C++) and PSP SDK
 | | |
