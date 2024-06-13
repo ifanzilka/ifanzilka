@@ -34,7 +34,7 @@
 | [CPP_Matrix](https://github.com/ifanzilka/CPP_Matrix) | CPP_Matrix | Matrix algebra in CPP
 | [FT_STL](https://github.com/ifanzilka/FT_STL)| STL/Standart Library C++, faster than the original | clear C++ 98
 |[ft_irc](https://github.com/ifanzilka/ft_irc)|Internet Relay Chat |C++, socket,accept, epoll,poll, select, kqueue
-|[WebServ](https://github.com/ifanzilka/WebServer) | HTTP Server (GET/POST/PUT)|C++, socket,accept, epoll,poll, select, kqueue
+|[WebServ](https://github.com/ifanzilka/WebServer) | HTTP Server (GET/POST/PUT)(minimal copy nginx) |C++, socket,accept, epoll,poll, select, kqueue
 |[FT_LINEAR_REGRESSION](https://github.com/ifanzilka/ft_linear_regression) | Realization linear regression, Analitic, Iterative solve | math, numpy, neptune (for logging) 
 |[tweets](https://github.com/ifanzilka/tweets) | This project is an introduction to natural language processing: bag of words, TFIDF, stemming, lemmatization, stop-words, cosine similarity, n-grams, word2vec|python3, pandas, numpy, scikit-learn
 [TexrAnalyzer](https://github.com/ifanzilka/text_analyzer) | Emotion Recognition , Conversation recognition not prohibited topics, filtering obscene language, filtering parasite words|python3, torch, numpy, Bert
