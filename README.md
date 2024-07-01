@@ -37,8 +37,6 @@
 |[WebServ](https://github.com/ifanzilka/WebServer) | HTTP Server (GET/POST/PUT)(minimal copy nginx) |C++, socket,accept, epoll,poll, select, kqueue
 |[FT_LINEAR_REGRESSION](https://github.com/ifanzilka/ft_linear_regression) | Realization linear regression, Analitic, Iterative solve | math, numpy, neptune (for logging) 
 |[FT_LOGISTICS_REGRESSION](https://github.com/ifanzilka/logistics-regression-) | Realization logistics regression, Analitic, Iterative solve | math, numpy, neptune (for logging) 
-
-
 |[tweets](https://github.com/ifanzilka/tweets) | This project is an introduction to natural language processing: bag of words, TFIDF, stemming, lemmatization, stop-words, cosine similarity, n-grams, word2vec|python3, pandas, numpy, scikit-learn
 [TexrAnalyzer](https://github.com/ifanzilka/text_analyzer) | Emotion Recognition , Conversation recognition not prohibited topics, filtering obscene language, filtering parasite words|python3, torch, numpy, Bert
 |[psp-game](https://github.com/ifanzilka/psp_game) | Simple game for PlayStation Portable (In progress) Why? I can do it|psp-g++(C++) and PSP SDK
